@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "cours node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/cohort7/doc_backend.git"
+  },
+  "author": "genieouz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/cohort7/doc_backend/issues"
+  },
+  "homepage": "https://gitlab.com/cohort7/doc_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^7.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
